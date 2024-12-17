@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#DF343434</color>
+    <color name="main">#DF9CDBE4</color>
+    <string name="app_name">University, country DB</string>
+    <style name="Theme.Lab1Mobile" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/main</item>
+    </style>
+</resources>

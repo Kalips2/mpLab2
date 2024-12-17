@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color main
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable my_photo
+id action_about
+id amountOfStudents
+id city
+id countrySpinner
+id developerInfo
+id developerPhoto
+id excellenceRate
+id main
+id map
+id nameInput
+id rating
+id resultText
+id textView2
+layout activity_about
+layout activity_main
+menu menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Lab1Mobile
+xml backup_rules
+xml data_extraction_rules
